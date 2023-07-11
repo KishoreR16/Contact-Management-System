@@ -1,4 +1,4 @@
-#include "2.cpp"
+#include "file2.cpp"
 #include<fstream>
 int main()
 {
